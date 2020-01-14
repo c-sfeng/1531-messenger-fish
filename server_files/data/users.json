@@ -1,0 +1,78 @@
+{
+    "index": 6,
+    "reset_codes": [],
+    "users": [
+        {
+            "email": "mcalice@mail.com",
+            "handle": "Chicken",
+            "name_first": "Alison",
+            "name_last": "McChicken",
+            "password": "bigmac",
+            "permission": 1,
+            "profile_img_url": "http://127.0.0.1:5001/static/chicken.jpg",
+            "pw_reset_code": "",
+            "tokens": [],
+            "u_id": 0
+        },
+        {
+            "email": "i.am.admin@mail.com",
+            "handle": "Adomin",
+            "name_first": "Aomine",
+            "name_last": "Lee",
+            "password": "alee",
+            "permission": 2,
+            "profile_img_url": "http://127.0.0.1:5001/static/default.jpg",
+            "pw_reset_code": "",
+            "tokens": [],
+            "u_id": 1
+        },
+        {
+            "email": "i.am.user@mail.com",
+            "handle": "Uoser",
+            "name_first": "Charles",
+            "name_last": "Dickens",
+            "password": "elephant123",
+            "permission": 3,
+            "profile_img_url": "http://127.0.0.1:5001/static/default.jpg",
+            "pw_reset_code": "",
+            "tokens": [],
+            "u_id": 2
+        },
+        {
+            "email": "channel.lover@mail.com",
+            "handle": "I'm lovin' it",
+            "name_first": "David",
+            "name_last": "Jones",
+            "password": "myer111",
+            "permission": 3,
+            "profile_img_url": "http://127.0.0.1:5001/static/default.jpg",
+            "pw_reset_code": "",
+            "tokens": [],
+            "u_id": 3
+        },
+        {
+            "email": "master.of.channels@mail.com",
+            "handle": "EvanHandle",
+            "name_first": "Evan",
+            "name_last": "EvanLast",
+            "password": "evanpw",
+            "permission": 3,
+            "profile_img_url": "http://127.0.0.1:5001/static/default.jpg",
+            "pw_reset_code": "",
+            "tokens": [],
+            "u_id": 4
+        },
+        {
+            "email": "registered.user@mail.com",
+            "handle": "The Doctor",
+            "name_first": "Jackson",
+            "name_last": "James",
+            "password": "jjforwin",
+            "permission": 3,
+            "profile_img_url": "http://127.0.0.1:5001/static/default.jpg",
+            "pw_reset_code": "",
+            "tokens": [],
+            "u_id": 5
+        }
+    ]
+}
